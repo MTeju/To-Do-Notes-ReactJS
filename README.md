@@ -5,6 +5,12 @@
 
 **Hai 👋, This project is To Do Notes App. This is Bulit Using ReactJS. Where U can Store the Todos/Notes in this App. It is simple to use and userFriendly also**
 
+### Special Features
+  + Local Storage - Data will not deleted after reloading the page
+  + Search Functionality - u can search for the specific Note/Todo since Search box/field is avalialble
+  + Note/Todo is limited for 150 characters. After count reaches to Zero (0). it dosent allows to enster data.
+  + After the Note/Todo is seved successfully. The Note/Todo will stores along with Date.  
+
 **The Below Output/Snapshots Shows the working of the To Do Notes App**
 
 **or You can diretly access the output 😉 by clicking this Link👉** [Click Here](https://mteju.github.io/To-Do-Notes-ReactJS/).
@@ -28,6 +34,8 @@ https://github.com/MTeju/To-Do-Notes-ReactJS/assets/106768538/5d0ceb87-8af4-4385
 
 
 ## This App Also consist of Search Functionality, Where u can also search for a Note/Todo that u have saved previous.
+## The Note/Todo is limited for the 150 charactes. As doon as the user starts entering data, the count of characters starts decreasing. As soon as the count reaches to Zero (0) the Note will not allow to enter the further data. 
+## It also displays the date after saving the Note/Todo at the bottom left of the Note/Todo.
 
 # Requirements
 + VS Code Editor
