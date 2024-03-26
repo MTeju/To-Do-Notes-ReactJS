@@ -29,3 +29,14 @@ https://github.com/MTeju/To-Do-Notes-ReactJS/assets/106768538/5d0ceb87-8af4-4385
 # Requirements
 + VS Code Editor
 + Node JS ( Should be installed in your PC )
+
+# Steps to be carried out to access in your system locally or to modify your self.😉
+### in vscode terminal use command to create React App 
++ npm create vite@latest
+  1. give project name
+  2. select react
+  3. select javascript / javascript + swc
++ copy the file and past in the created folder after
++ make your own changes
++ save and run the below command
+  1. npm run dev
