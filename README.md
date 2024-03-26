@@ -24,4 +24,7 @@ https://github.com/MTeju/To-Do-Notes-ReactJS/assets/106768538/5d0ceb87-8af4-4385
 ![To Do Notes App - Personal - Microsoft​ Edge 26-03-2024 15_04_27](https://github.com/MTeju/To-Do-Notes-ReactJS/assets/106768538/fd7d10e8-de2f-4e28-925e-0ee701511af8)
 
 
-## This App Also consist of ### Search Functionality 
+## This App Also consist of Search Functionality, Where u can also search for a Note/Todo that u have saved previous.
+
+# Requirements
++ VS Code Editor
