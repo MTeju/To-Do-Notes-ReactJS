@@ -22,5 +22,6 @@ https://github.com/MTeju/To-Do-Notes-ReactJS/assets/106768538/5d0ceb87-8af4-4385
 ## After Saving the Note/Todo Successfully..
 ![To Do Notes App - Personal - Microsoft​ Edge 26-03-2024 15_04_06](https://github.com/MTeju/To-Do-Notes-ReactJS/assets/106768538/2e37dad6-3df9-4749-a44e-f7b8b3ba17d4)
 
-## Search Functionality
+### Search Functionality
 ![To Do Notes App - Personal - Microsoft​ Edge 26-03-2024 15_04_27](https://github.com/MTeju/To-Do-Notes-ReactJS/assets/106768538/fd7d10e8-de2f-4e28-925e-0ee701511af8)
+
