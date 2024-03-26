@@ -28,3 +28,4 @@ https://github.com/MTeju/To-Do-Notes-ReactJS/assets/106768538/5d0ceb87-8af4-4385
 
 # Requirements
 + VS Code Editor
++ Node JS ( Should be installed in your PC )
