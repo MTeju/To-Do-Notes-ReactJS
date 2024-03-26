@@ -1,3 +1,6 @@
+
+# React + Vite
+
 # To Do Notes App Built Uding ReactJS with Local Storage
 
 **Hai 👋, This project is To Do Notes App. This is Bulit Using ReactJS. Where U can Store the Todos/Notes in this App. It is simple to use and userFriendly also**
@@ -31,7 +34,7 @@ https://github.com/MTeju/To-Do-Notes-ReactJS/assets/106768538/5d0ceb87-8af4-4385
 + Node JS ( Should be installed in your PC )
 
 # Steps to be carried out to access in your system locally or to modify your self.😉
-### in vscode terminal use command to create React App 
+### In VScode terminal use command to create React App 
 + npm create vite@latest
   1. give project name
   2. select react
@@ -40,3 +43,10 @@ https://github.com/MTeju/To-Do-Notes-ReactJS/assets/106768538/5d0ceb87-8af4-4385
 + make your own changes
 + save and run the below command
   1. npm run dev
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
