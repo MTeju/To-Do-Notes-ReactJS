@@ -1,0 +1,39 @@
+::placeholder{
+    color: white;
+}
+
+.note.new{
+    background: crimson;
+    color: white;
+}
+
+textarea{
+    border: none;
+    resize: none;
+    background: transparent;
+    font-size: 15px;
+    color: white;
+}
+
+textarea:focus{
+    outline: none;
+}
+
+.save-btn{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    rotate: -90deg;
+    transition: all 0.5s ease;
+}
+
+.save-btn:hover{
+    rotate: 0deg;    
+
+}
+
+.save-btn i{
+    font-size: 30px;
+}
